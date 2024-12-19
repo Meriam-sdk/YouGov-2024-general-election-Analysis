@@ -7,7 +7,11 @@ Tools Used:
 
 Data Analysis & Processing: Pandas, Excel file handling
 Visualization: Matplotlib, Seaborn
-Results:
+Key Results:
 
-Identified key voting trends across UK regions.
-Predicted voting shares for major political parties, highlighting competitive constituencies.
+Data Scope: Analyzed voting intentions across all UK constituencies.
+Party Projections: Identified the number of constituencies each party is projected to win.
+Metrics Extracted:
+Average vote shares for major parties: Conservative, Labour, Liberal Democrats, and Green Party.
+Top constituencies by projected vote shares per party.
+Distribution histograms for each party's vote share.
