@@ -7,6 +7,8 @@ Tools Used:
 
 Data Analysis & Processing: Pandas, Excel file handling
 Visualization: Matplotlib, Seaborn
+
+
 Key Results:
 
 Data Scope: Analyzed voting intentions across all UK constituencies.
